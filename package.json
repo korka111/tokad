@@ -1,0 +1,18 @@
+{
+  "name": "content-classifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.16.0",
+    "axios": "^1.7.3",
+    "openai": "^4.55.1",
+    "vercel": "^35.2.3"
+  }
+}
